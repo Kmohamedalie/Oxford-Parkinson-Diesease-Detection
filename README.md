@@ -7,7 +7,7 @@
 
 **Dataset:**  <a href="https://archive.ics.uci.edu/dataset/174/parkinsons">UCI Machine Learning</a>
 
-**Notebook:** [Link](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/blob/master/Notebook/Parkinson's%20Oxford%20-%20SnapML(Random%20Forest%20vs%20Boosting%20Machine).ipynb)
+**Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/blob/master/Notebook/Parkinson's%20Oxford%20-%20SnapML(Random%20Forest%20vs%20Boosting%20Machine).ipynb)
 | Algorithm | Recall | Precision | F1-score | Accuracy |
 | --------- |--------|-----------|----------|----------|
 |Baggig(RF) |  100%  |    85.29% |   85.55% |  87.18%  |
