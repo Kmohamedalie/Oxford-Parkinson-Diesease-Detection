@@ -1,11 +1,21 @@
 # Oxford-Parkinson-Diesease-Detection
 
-![image](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/assets/63104472/a4673a89-67d5-40c8-b9b5-daf60e18293e)
+<!-- ![image](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/assets/63104472/a4673a89-67d5-40c8-b9b5-daf60e18293e) -->
+
+
+
+https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/assets/63104472/e99c15e6-b227-4425-a9de-55775fa70ccc
+
+
+**Video source:**[Research at the Oxford Parkinson's Disease Centre](https://www.youtube.com/watch?v=PHSAo5qd38A&t=66s)
+
 
 
 **Task:** The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD. 
 
+
 **Dataset:**  <a href="https://archive.ics.uci.edu/dataset/174/parkinsons">UCI Machine Learning</a>
+
 
 **Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/blob/master/Notebook/Parkinson's%20Oxford%20-%20SnapML(Random%20Forest%20vs%20Boosting%20Machine).ipynb)
 | Algorithm | Recall | Precision | F1-score | Accuracy |
