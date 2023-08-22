@@ -11,7 +11,7 @@ https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/assets/63104
 
 
 
-**Task:** The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD. 
+**Task:** The main aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for Parkinson Disease(PD). 
 
 
 **Dataset:**  <a href="https://archive.ics.uci.edu/dataset/174/parkinsons">UCI Machine Learning</a>
