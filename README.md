@@ -1,4 +1,4 @@
-# Oxford-Parkinson-Diesease-Detection
+# Oxford-Parkinson-Diesease-Detection 
 
 <!-- ![image](https://github.com/Kmohamedalie/Oxford-Parkinson-Diesease-Detection/assets/63104472/a4673a89-67d5-40c8-b9b5-daf60e18293e) -->
 
